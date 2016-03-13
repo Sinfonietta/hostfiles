@@ -52,8 +52,18 @@
 127.0.0.1 syndication.twitter.com
 
 # Instagram
-127.0.0.1 www.instagram.com
+127.0.0.1 igcdn-photos-aa.akamaihd.net
+127.0.0.1 igcdn-photos-ba.akamaihd.net
+127.0.0.1 igcdn-photos-ca.akamaihd.net
+127.0.0.1 igcdn-photos-da.akamaihd.net
+127.0.0.1 igcdn-photos-ea.akamaihd.net
+127.0.0.1 igcdn-photos-fa.akamaihd.net
+127.0.0.1 igcdn-photos-ga.akamaihd.net
+127.0.0.1 igcdn-photos-ha.akamaihd.net
+127.0.0.1 instagram.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
+127.0.0.1 scontent.cdninstagram.com
+127.0.0.1 www.instagram.com
 
 # LinkedIn
 127.0.0.1 static.licdn.com
