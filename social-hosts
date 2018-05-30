@@ -734,6 +734,7 @@
 127.0.0.1 login.facebook.com
 127.0.0.1 m.facebook.com
 127.0.0.1 messages-facebook.com
+127.0.0.1 mobile.facebook.com
 127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 mqtt.c10r.facebook.com
 127.0.0.1 mqtt.facebook.com
