@@ -1,5 +1,5 @@
 # Title: Social media hosts
-# Updated January 12, 2018
+# Updated January 12, 2019
 
 # Facebook
 127.0.0.1 0-act.channel.facebook.com
@@ -1443,21 +1443,49 @@
 127.0.0.1 www1.myspace.com
 
 # Pinterest
-127.0.0.1 pinterest.com
-127.0.0.1 www.pinterest.com
-127.0.0.1 api.pinterest.com
-127.0.0.1 engineering.pinterest.com
-127.0.0.1 developers.pinterest.com
 127.0.0.1 about.pinterest.com
+127.0.0.1 accounts.pinterest.com
 127.0.0.1 ads.pinterest.com
+127.0.0.1 api.pinterest.com
+127.0.0.1 api.pinterest.com.gslb.pinterest.com
+127.0.0.1 assets.pinterest.com
 127.0.0.1 blog.pinterest.com
 127.0.0.1 br.pinterest.com
 127.0.0.1 business.pinterest.com
+127.0.0.1 ct.pinterest.com
 127.0.0.1 developers.pinterest.com
+127.0.0.1 dualstack.pinterest.map.fastly.net
+127.0.0.1 engineering.pinterest.com
+127.0.0.1 fr.pinterest.com
 127.0.0.1 help.pinterest.com
+127.0.0.1 i-h1.pinimg.com
+127.0.0.1 i.pinimg.com
+127.0.0.1 i.pinimg.com.edgekey.net
+127.0.0.1 i.pinimg.com.gslb.pinterest.com
 127.0.0.1 id.pinterest.com
+127.0.0.1 log.pinterest.com
+127.0.0.1 pin.it
+127.0.0.1 pinimg.com
+127.0.0.1 pinterest.com
+127.0.0.1 post.pinterest.com
+127.0.0.1 prod.pinterest.global.map.fastly.net
+127.0.0.1 s-passets.pinimg.com
+127.0.0.1 s-pinimg-com.gslb.pinterest.com
+127.0.0.1 s.pinimg.com
+127.0.0.1 s.pinimg.com.edgekey.net
+127.0.0.1 s.pinimg.com.gslb.pinterest.com
 127.0.0.1 trk.pinterest.com
 127.0.0.1 uk.pinterest.com
+127.0.0.1 v.pinimg.com
+127.0.0.1 v.pinimg.com.edgekey.net
+127.0.0.1 v.pinimg.com.gslb.pinterest.com
+127.0.0.1 widgets.pinterest.com
+127.0.0.1 www.pinterest.ch
+127.0.0.1 www.pinterest.com
+127.0.0.1 www.pinterest.com.au
+127.0.0.1 www.pinterest.com.edgekey.net
+127.0.0.1 www.pinterest.com.gslb.pinterest.com
+127.0.0.1 www.pinterest.fr
 
 # Tumblr
 127.0.0.1 36.media.tumblr.com
