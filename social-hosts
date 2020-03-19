@@ -7,6 +7,15 @@
 #127.0.0.1 plusone.google.com
 127.0.0.1 plus.google.com
 
+# YouTube
+127.0.0.1 googlevideo.com
+127.0.0.1 ytimg.com
+127.0.0.1 youtube.com
+127.0.0.1 youtube-ui.l.google.com
+127.0.0.1 ytimg.l.google.com
+127.0.0.1 ytstatic.l.google.com
+127.0.0.1 youtubei.googleapis.com
+
 # Facebook
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
