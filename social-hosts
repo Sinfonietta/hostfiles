@@ -2818,3 +2818,27 @@
 127.0.0.1 muscdn.com
 127.0.0.1 tiktokv.com
 127.0.0.1 tiktokcdn-com.akamaized.net
+
+# DateMeme
+127.0.0.1 datememe.com
+127.0.0.1 www.datememe.com
+127.0.0.1 admin.datememe.com
+127.0.0.1 blog.datememe.com
+127.0.0.1 bn.datememe.com
+127.0.0.1 c1.datememe.com
+127.0.0.1 c2.datememe.com
+127.0.0.1 c3.datememe.com
+127.0.0.1 de.datememe.com
+127.0.0.1 en.datememe.com
+127.0.0.1 es.datememe.com
+127.0.0.1 fr.datememe.com
+127.0.0.1 hi.datememe.com
+127.0.0.1 id.datememe.com
+127.0.0.1 ja.datememe.com
+127.0.0.1 jv.datememe.com
+127.0.0.1 ko.datememe.com
+127.0.0.1 pt.datememe.com
+127.0.0.1 ru.datememe.com
+127.0.0.1 th.datememe.com
+127.0.0.1 vi.datememe.com
+127.0.0.1 zh-cn.datememe.com
