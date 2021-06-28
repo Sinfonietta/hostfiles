@@ -1,5 +1,5 @@
 # Title: Social media hosts
-# Updated: June 20, 2019
+# Updated: June 27, 2021
 
 # Google Plus
 #127.0.0.1 plus.l.google.com
@@ -2846,3 +2846,13 @@
 127.0.0.1 th.datememe.com
 127.0.0.1 vi.datememe.com
 127.0.0.1 zh-cn.datememe.com
+
+# clubhouse
+127.0.0.1 joinclubhouse.com
+127.0.0.1 www.joinclubhouse.com
+127.0.0.1 welcome.joinclubhouse.com
+127.0.0.1 community.joinclubhouse.com
+127.0.0.1 staging.joinclubhouse.com
+127.0.0.1 admin-staging.joinclubhouse.com
+127.0.0.1 ios.joinclubhouse.com
+127.0.0.1 testflight.joinclubhouse.com
