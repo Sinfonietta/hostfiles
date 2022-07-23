@@ -18708,3 +18708,6 @@
 0.0.0.0 chrismarsan.blogspot.com
 0.0.0.0 fabricadecornos.blogspot.com
 
+# from https://github.com/StevenBlack/hosts/issues/2004
+0.0.0.0 xxx-brawl.xyz
+0.0.0.0 brawl-stars-xxx.xyz
