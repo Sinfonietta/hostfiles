@@ -1,0 +1,176 @@
+# ==================================================
+# Title: Alcohol/Drugs/Tobacco Filter
+# --------------------------------------------------
+# Update: 2022-08-27
+# --------------------------------------------------
+# A consolidated list of hosts for sites that sell
+# (or promote the use of) alchohol, drugs, and/or
+# tobacco (and related products).
+# ==================================================
+
+# --------------------------------------------------
+# Alcohol Hosts
+# --------------------------------------------------
+
+0.0.0.0 absolut.com
+0.0.0.0 anyoneforpimms.com
+0.0.0.0 aperol.com
+0.0.0.0 aspall.co.uk
+0.0.0.0 babycham.co.uk
+0.0.0.0 bacardi.com
+0.0.0.0 baileys.com
+0.0.0.0 ballantines.com
+0.0.0.0 barefootwine.co.uk
+0.0.0.0 blossomhill.com
+0.0.0.0 bombaysapphire.com
+0.0.0.0 bringmedrink.co.uk
+0.0.0.0 budweiser.co.uk
+0.0.0.0 bulmers.co.uk
+0.0.0.0 campari.com
+0.0.0.0 captainmorgan.com
+0.0.0.0 casillerodeldiablo.com
+0.0.0.0 chambordliqueur.com
+0.0.0.0 champagne-bollinger.com
+0.0.0.0 chivas.com
+0.0.0.0 chivasbrothers.com
+0.0.0.0 cinzano.com
+0.0.0.0 ciroc.com
+0.0.0.0 cobrabeer.com
+0.0.0.0 cockburns.com
+0.0.0.0 cointreau.com
+0.0.0.0 coronaextra.co.uk
+0.0.0.0 courvoisier.com
+0.0.0.0 crabbiesgingerwine.co.uk
+0.0.0.0 croftport.com
+0.0.0.0 disaronno.com
+0.0.0.0 domperignon.com
+0.0.0.0 drambuie.com
+0.0.0.0 drinksdirect.com
+0.0.0.0 drinksupermarket.com
+0.0.0.0 drinkwarehouseuk.co.uk
+0.0.0.0 echofallswine.co.uk
+0.0.0.0 edinburghgin.com
+0.0.0.0 fletcherdrinks.co.uk
+0.0.0.0 gallofamily.co.uk
+0.0.0.0 glenfiddich.com
+0.0.0.0 glenmorangie.com
+0.0.0.0 glenmoray.com
+0.0.0.0 gordonsgin.com
+0.0.0.0 grahams-port.com
+0.0.0.0 grandmarnier.com
+0.0.0.0 grantswhisky.com
+0.0.0.0 greenallsgin.com
+0.0.0.0 greygoose.com
+0.0.0.0 grolsch.com
+0.0.0.0 havana-club.com
+0.0.0.0 hendricksgin.com
+0.0.0.0 hennessy.com
+0.0.0.0 hoochlemonbrew.com
+0.0.0.0 jackdaniels.com
+0.0.0.0 jacobscreek.com
+0.0.0.0 jagermeister.com
+0.0.0.0 jamesonwhiskey.com
+0.0.0.0 jimbeam.com
+0.0.0.0 johnniewalker.com
+0.0.0.0 krakenrum.co.uk
+0.0.0.0 krug.com
+0.0.0.0 laithwaites.co.uk
+0.0.0.0 lambsnavyrum.com
+0.0.0.0 laurent-perrier.com
+0.0.0.0 liquor.com
+0.0.0.0 magners.co.uk
+0.0.0.0 maliburumdrinks.com
+0.0.0.0 malts.com
+0.0.0.0 martell.com
+0.0.0.0 martini.com
+0.0.0.0 masterofmalt.com
+0.0.0.0 mateusrose.com
+0.0.0.0 moet.com
+0.0.0.0 plymouthgin.com
+0.0.0.0 remymartin.com
+0.0.0.0 scotchwhisky.com
+0.0.0.0 sipsmith.com
+0.0.0.0 smirnoff.com
+0.0.0.0 sourz.co.uk
+0.0.0.0 southerncomfort.com
+0.0.0.0 stellaartois.com
+0.0.0.0 stonesgingerwine.co.uk
+0.0.0.0 taittinger.com
+0.0.0.0 tanqueray.com
+0.0.0.0 taylor.pt
+0.0.0.0 teacherswhisky.com
+0.0.0.0 theakstons.co.uk
+0.0.0.0 thebar.com
+0.0.0.0 thebotanistgin.net
+0.0.0.0 thebottleclub.com
+0.0.0.0 thefamousgrouse.com
+0.0.0.0 theglenlivet.com
+0.0.0.0 threebarrels.co.uk
+0.0.0.0 uk.thebar.com
+0.0.0.0 veuveclicquot.com
+0.0.0.0 westons-cider.co.uk
+0.0.0.0 wkd.co.uk
+0.0.0.0 whitleyneill.com
+0.0.0.0 whyteandmackay.com
+0.0.0.0 wine-searcher.com
+0.0.0.0 winedealsdirect.co.uk
+0.0.0.0 yellowtailwine.com
+
+
+
+# --------------------------------------------------
+# Drugs Hosts
+# --------------------------------------------------
+
+0.0.0.0 420magazine.com
+0.0.0.0 bluelight.org
+0.0.0.0 cannabis.com
+0.0.0.0 cannabis.community.forums.ozstoners.com
+0.0.0.0 community.forums.ozstoners.com
+0.0.0.0 forum.grasscity.com
+0.0.0.0 forum.growweedeasy.com
+0.0.0.0 forum.howtogrowmarijuana.com
+0.0.0.0 forum.sensiseeds.com
+0.0.0.0 forums.ozstoners.com
+0.0.0.0 forums.strainhunters.com
+0.0.0.0 grasscity.com
+0.0.0.0 growweedeasy.com
+0.0.0.0 howtogrowmarijuana.com
+0.0.0.0 ilovegrowingmarijuana.com
+0.0.0.0 opengrow.com
+0.0.0.0 marijuana.com
+0.0.0.0 marijuanapassion.com
+0.0.0.0 myplanetganja.com
+0.0.0.0 ozstoners.com
+0.0.0.0 rollitup.org
+0.0.0.0 sensiseeds.com
+0.0.0.0 strainhunters.com
+0.0.0.0 thcfarmer.com
+0.0.0.0 thctalk.com
+0.0.0.0 uk420.com
+
+
+
+# --------------------------------------------------
+# Tobacco Hosts
+# --------------------------------------------------
+
+0.0.0.0 bensonandhedges.co.uk
+0.0.0.0 bullbrand.co.uk
+0.0.0.0 buypipetobacco.com
+0.0.0.0 cgarsltd.co.uk
+0.0.0.0 club-tobacco.com
+0.0.0.0 gqtobaccos.com
+0.0.0.0 handrollingtobacco.co.uk
+0.0.0.0 havanahouse.co.uk
+0.0.0.0 pipedia.org
+0.0.0.0 smoke-king.co.uk
+0.0.0.0 smokersoutletonline.com
+0.0.0.0 thebackyshop.co.uk
+0.0.0.0 thepipeshop.co.uk
+0.0.0.0 the-tobacconist.co.uk
+0.0.0.0 tobaccodirect.co.uk
+0.0.0.0 tobaccospecialists.co.uk
+0.0.0.0 tobacco-shop.co.uk
+0.0.0.0 ukcigs.co
+0.0.0.0 uktobacco.co.uk
