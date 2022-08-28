@@ -1,9 +1,20 @@
 
+# ==================================================
+# Title: Gambling hosts
+# --------------------------------------------------
+# Updated: 2022-08-28
+# --------------------------------------------------
+# A list of sites providing services for (or
+# encouraging the act of) gambling, whether for
+# monetary value or for items (either physical or
+# virtual).
+# --------------------------------------------------
+# Additional sources:-
 # <http://www.top100bookmakers.com/completelist.php>
 # <https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/anti-casino-and-betting-hosts-file.txt>
 # <https://www.reddit.com/r/GlobalOffensiveGamble/comments/3d5fmr/list_of_csgo_gambling_websites/>
-# Title: Gambling hosts
-# Updated Jun 22, 2022
+# ==================================================
+
 0.0.0.0 10bet.com
 0.0.0.0 10luxury39.com
 0.0.0.0 11wickets.com
@@ -608,6 +619,7 @@
 0.0.0.0 fun-bet.com
 0.0.0.0 fun88.co.uk
 0.0.0.0 funcasino.com
+0.0.0.0 g4skins.com
 0.0.0.0 galabingo.com
 0.0.0.0 galacasino.com
 0.0.0.0 galaksipokerqq.com
