@@ -227,19 +227,26 @@
 
 
 # --------------------------------------------------
-# Tobacco Hosts
+# Tobacco
 # --------------------------------------------------
 
 0.0.0.0 bensonandhedges.co.uk
 0.0.0.0 bullbrand.co.uk
 0.0.0.0 buypipetobacco.com
+0.0.0.0 camel.com
 0.0.0.0 cgarsltd.co.uk
 0.0.0.0 cheapsmokes.com
+0.0.0.0 cigarettesdealer.com
+0.0.0.0 cigsclub.co.uk
+0.0.0.0 cigsway.com
 0.0.0.0 club-tobacco.com
+0.0.0.0 gigarettes.com
 0.0.0.0 gqtobaccos.com
 0.0.0.0 handrollingtobacco.co.uk
 0.0.0.0 havanahouse.co.uk
 0.0.0.0 johnnystobacconist.co.uk
+0.0.0.0 mac-baren.com
+0.0.0.0 marlboro.com
 0.0.0.0 mysmokingshop.co.uk
 0.0.0.0 pipedia.org
 0.0.0.0 rizla.com
@@ -249,8 +256,10 @@
 0.0.0.0 thepipeshop.co.uk
 0.0.0.0 the-tobacconist.co.uk
 0.0.0.0 tobaccodirect.co.uk
+0.0.0.0 tobaccoonline.co.uk
 0.0.0.0 tobaccospecialists.co.uk
 0.0.0.0 tobacco-shop.co.uk
 0.0.0.0 turmeaus.co.uk
 0.0.0.0 ukcigs.co
 0.0.0.0 uktobacco.co.uk
+0.0.0.0 uschemheadshop.com
