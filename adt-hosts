@@ -1,7 +1,7 @@
 # ==================================================
 # Title: Alcohol/Drugs/Tobacco Filter
 # --------------------------------------------------
-# Update: 2022-08-27
+# Update: 2022-08-31
 # --------------------------------------------------
 # A consolidated list of hosts for sites that sell
 # (or promote the use of) alchohol, drugs, and/or
@@ -12,25 +12,33 @@
 # Alcohol Hosts
 # --------------------------------------------------
 
+0.0.0.0 aberlour.com
 0.0.0.0 absolut.com
 0.0.0.0 anyoneforpimms.com
 0.0.0.0 aperol.com
+0.0.0.0 ardmorewhisky.com
 0.0.0.0 aspall.co.uk
 0.0.0.0 babycham.co.uk
 0.0.0.0 bacardi.com
 0.0.0.0 baileys.com
 0.0.0.0 ballantines.com
+0.0.0.0 bankssbeer.co.uk
 0.0.0.0 barefootwine.co.uk
+0.0.0.0 belvederevodka.com
 0.0.0.0 blossomhill.com
 0.0.0.0 bombaysapphire.com
 0.0.0.0 bringmedrink.co.uk
 0.0.0.0 budweiser.co.uk
 0.0.0.0 bulmers.co.uk
+0.0.0.0 bushmills.com
 0.0.0.0 campari.com
+0.0.0.0 campoviejo.com
+0.0.0.0 canadianclub.com
 0.0.0.0 captainmorgan.com
 0.0.0.0 casillerodeldiablo.com
 0.0.0.0 chambordliqueur.com
 0.0.0.0 champagne-bollinger.com
+0.0.0.0 chasedistillery.co.uk
 0.0.0.0 chivas.com
 0.0.0.0 chivasbrothers.com
 0.0.0.0 cinzano.com
@@ -50,11 +58,16 @@
 0.0.0.0 drinkwarehouseuk.co.uk
 0.0.0.0 echofallswine.co.uk
 0.0.0.0 edinburghgin.com
+0.0.0.0 finlandia.com
 0.0.0.0 fletcherdrinks.co.uk
+0.0.0.0 freixenet.co.uk
 0.0.0.0 gallofamily.co.uk
+0.0.0.0 ginmare.com
+0.0.0.0 glayva.com
 0.0.0.0 glenfiddich.com
 0.0.0.0 glenmorangie.com
 0.0.0.0 glenmoray.com
+0.0.0.0 glensvodka.com
 0.0.0.0 gordonsgin.com
 0.0.0.0 grahams-port.com
 0.0.0.0 grandmarnier.com
@@ -65,19 +78,29 @@
 0.0.0.0 havana-club.com
 0.0.0.0 hendricksgin.com
 0.0.0.0 hennessy.com
+0.0.0.0 highlandparkwhisky.com
 0.0.0.0 hoochlemonbrew.com
+0.0.0.0 islanegrawines.com
 0.0.0.0 jackdaniels.com
 0.0.0.0 jacobscreek.com
 0.0.0.0 jagermeister.com
 0.0.0.0 jamesonwhiskey.com
 0.0.0.0 jimbeam.com
 0.0.0.0 johnniewalker.com
+0.0.0.0 jpchenet.com
+0.0.0.0 kahlua.com
 0.0.0.0 krakenrum.co.uk
 0.0.0.0 krug.com
+0.0.0.0 kumalawines.co.za
 0.0.0.0 laithwaites.co.uk
 0.0.0.0 lambsnavyrum.com
+0.0.0.0 lanson.com
+0.0.0.0 laphroaig.com
 0.0.0.0 laurent-perrier.com
+0.0.0.0 lindisfarne.org.uk
 0.0.0.0 liquor.com
+0.0.0.0 lisamcguiganwines.com
+0.0.0.0 luxuriousdrinks.com
 0.0.0.0 magners.co.uk
 0.0.0.0 maliburumdrinks.com
 0.0.0.0 malts.com
@@ -85,35 +108,58 @@
 0.0.0.0 martini.com
 0.0.0.0 masterofmalt.com
 0.0.0.0 mateusrose.com
+0.0.0.0 mcguiganwines.co.uk
+0.0.0.0 metaxa.com
 0.0.0.0 moet.com
+0.0.0.0 monkeyshoulder.com
+0.0.0.0 mountgayrum.com
+0.0.0.0 obanwhisky.com
+0.0.0.0 oxfordlanding.com
+0.0.0.0 oysterbaywines.com
+0.0.0.0 penfolds.com
+0.0.0.0 pernod-ricard.com
+0.0.0.0 piper-heidsieck.com
 0.0.0.0 plymouthgin.com
 0.0.0.0 remymartin.com
+0.0.0.0 sailorjerry.com
 0.0.0.0 scotchwhisky.com
 0.0.0.0 sipsmith.com
 0.0.0.0 smirnoff.com
 0.0.0.0 sourz.co.uk
 0.0.0.0 southerncomfort.com
 0.0.0.0 stellaartois.com
+0.0.0.0 stoli.com
 0.0.0.0 stonesgingerwine.co.uk
 0.0.0.0 taittinger.com
 0.0.0.0 tanqueray.com
 0.0.0.0 taylor.pt
 0.0.0.0 teacherswhisky.com
 0.0.0.0 theakstons.co.uk
+0.0.0.0 thebalvenie.com
 0.0.0.0 thebar.com
 0.0.0.0 thebotanistgin.net
 0.0.0.0 thebottleclub.com
+0.0.0.0 thedrinksbasket.com
 0.0.0.0 thefamousgrouse.com
 0.0.0.0 theglenlivet.com
+0.0.0.0 themacallan.com
+0.0.0.0 theshackletonwhisky.com
 0.0.0.0 threebarrels.co.uk
+0.0.0.0 tobermorydistillery.com
+0.0.0.0 tullamoredew.com
 0.0.0.0 uk.thebar.com
 0.0.0.0 veuveclicquot.com
+0.0.0.0 vinepair.com
 0.0.0.0 westons-cider.co.uk
 0.0.0.0 wkd.co.uk
 0.0.0.0 whitleyneill.com
 0.0.0.0 whyteandmackay.com
+0.0.0.0 wildturkeybourbon.com
 0.0.0.0 wine-searcher.com
 0.0.0.0 winedealsdirect.co.uk
+0.0.0.0 wolfblass.com
+0.0.0.0 woodfordes.com
+0.0.0.0 woodsrum.co.uk
 0.0.0.0 yellowtailwine.com
 
 
@@ -164,6 +210,7 @@
 0.0.0.0 handrollingtobacco.co.uk
 0.0.0.0 havanahouse.co.uk
 0.0.0.0 pipedia.org
+0.0.0.0 rizla.com
 0.0.0.0 smoke-king.co.uk
 0.0.0.0 smokersoutletonline.com
 0.0.0.0 thebackyshop.co.uk
