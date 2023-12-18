@@ -2268,6 +2268,10 @@
 127.0.0.1 www.whatsapp.com
 127.0.0.1 wwwl.whatsapp.com
 
+# Threads
+127.0.0.1 threads.net
+127.0.0.1 www.threads.net
+
 # Twitter
 127.0.0.1 0.twitter.com
 127.0.0.1 2010.twitter.com
