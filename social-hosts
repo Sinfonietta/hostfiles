@@ -2389,6 +2389,8 @@
 127.0.0.1 www.twitter.com
 127.0.0.1 www2.twitter.com
 127.0.0.1 www4.twitter.com
+127.0.0.1 www.x.com
+127.0.0.1 x.com
 
 # LinkedIn
 127.0.0.1 addtoprofile.linkedin.com
