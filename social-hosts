@@ -1,11 +1,6 @@
 # Title: Social media hosts
-# Updated: June 27, 2021
-
-# Google Plus
-#127.0.0.1 plus.l.google.com
-#127.0.0.1 plus.sandbox.google.com
-#127.0.0.1 plusone.google.com
-127.0.0.1 plus.google.com
+# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+# Updated: March 24, 2024
 
 # Facebook
 127.0.0.1 0-act.channel.facebook.com
