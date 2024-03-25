@@ -2391,6 +2391,7 @@
 127.0.0.1 addtoprofile.linkedin.com
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ae.linkedin.com
+127.0.0.1 afd.perf.linkedin.com
 127.0.0.1 ajuda.linkedin.com
 127.0.0.1 ap.linkedin.com
 127.0.0.1 api.linkedin.com
@@ -2409,6 +2410,7 @@
 127.0.0.1 business.linkedin.com
 127.0.0.1 ca.linkedin.com
 127.0.0.1 certification.linkedin.com
+127.0.0.1 cf.perf.linkedin.com
 127.0.0.1 ch.linkedin.com
 127.0.0.1 cms.linkedin.com
 127.0.0.1 co.linkedin.com
@@ -2427,6 +2429,8 @@
 127.0.0.1 developer.linkedin.com
 127.0.0.1 developers.linkedin.com
 127.0.0.1 dk.linkedin.com
+127.0.0.1 dms-akam.licdn.com
+127.0.0.1 dms.licdn.com
 127.0.0.1 download.linkedin.com
 127.0.0.1 e.linkedin.com
 127.0.0.1 ec.linkedin.com
@@ -2436,6 +2440,9 @@
 127.0.0.1 es.linkedin.com
 127.0.0.1 eu-west-1.dc.ads.linkedin.com
 127.0.0.1 events.linkedin.com
+127.0.0.1 exp1.www.linkedin.com
+127.0.0.1 exp2.www.linkedin.com
+127.0.0.1 exp3.www.linkedin.com
 127.0.0.1 fi.linkedin.com
 127.0.0.1 financeconnect.linkedin.com
 127.0.0.1 forms.linkedin.com
@@ -2473,6 +2480,7 @@
 127.0.0.1 jp.linkedin.com
 127.0.0.1 ke.linkedin.com
 127.0.0.1 kr.linkedin.com
+127.0.0.1 lan.sdk.linkedin.com
 127.0.0.1 learning.linkedin.com
 127.0.0.1 lifg.linkedin.com
 127.0.0.1 linkedin.com
@@ -2483,6 +2491,7 @@
 127.0.0.1 lms.linkedin.com
 127.0.0.1 lu.linkedin.com
 127.0.0.1 m.linkedin.com
+127.0.0.1 mail-d.linkedin.com
 127.0.0.1 mail-test.linkedin.com
 127.0.0.1 mail.linkedin.com
 127.0.0.1 mail01.linkedin.com
@@ -2491,9 +2500,16 @@
 127.0.0.1 mail04.linkedin.com
 127.0.0.1 marketing.linkedin.com
 127.0.0.1 me.linkedin.com
+127.0.0.1 media-akam.licdn.com
+127.0.0.1 media-ecst.licdn.com
+127.0.0.1 media-exp1.licdn.com
+127.0.0.1 media-exp3.licdn.com
 127.0.0.1 media.licdn.com
 127.0.0.1 members.linkedin.com
 127.0.0.1 mentor.linkedin.com
+127.0.0.1 merchantpool1.linkedin.com
+127.0.0.1 mid4.linkedin.com
+127.0.0.1 mix.linkedin.com
 127.0.0.1 mobile.linkedin.com
 127.0.0.1 ms.bantuan.linkedin.com
 127.0.0.1 mx.linkedin.com
@@ -2515,13 +2531,18 @@
 127.0.0.1 opportunity.linkedin.com
 127.0.0.1 ourstory.linkedin.com
 127.0.0.1 pl.linkedin.com
+127.0.0.1 platform-akam.linkedin.com
+127.0.0.1 platform-azur.linkedin.com
+127.0.0.1 platform-ecst.linkedin.com
 127.0.0.1 platform.linkedin.com
 127.0.0.1 polls.linkedin.com
 127.0.0.1 pomoc.linkedin.com
+127.0.0.1 ponf.linkedin.com
 127.0.0.1 premium.linkedin.com
 127.0.0.1 press.linkedin.com
 127.0.0.1 pt.linkedin.com
 127.0.0.1 purchasing.linkedin.com
+127.0.0.1 px.ads.linkedin.com
 127.0.0.1 qa.linkedin.com
 127.0.0.1 remote.linkedin.com
 127.0.0.1 ro.linkedin.com
@@ -2537,7 +2558,12 @@
 127.0.0.1 si.linkedin.com
 127.0.0.1 signin.lms.linkedin.com
 127.0.0.1 smallbusiness.linkedin.com
+127.0.0.1 snap.licdn.com
 127.0.0.1 specialedition.linkedin.com
+127.0.0.1 static-akam.licdn.com
+127.0.0.1 static-azur.licdn.com
+127.0.0.1 static-ecst.licdn.com
+127.0.0.1 static-od.licdn.com
 127.0.0.1 static.licdn.com
 127.0.0.1 studentcareers.linkedin.com
 127.0.0.1 students.linkedin.com
@@ -2562,6 +2588,7 @@
 127.0.0.1 volunteer.linkedin.com
 127.0.0.1 volunteers.linkedin.com
 127.0.0.1 ws.linkedin.com
+127.0.0.1 www-src.linkedin.com
 127.0.0.1 www.brand.linkedin.com
 127.0.0.1 www.bringinyourparents.linkedin.com
 127.0.0.1 www.business.linkedin.com
