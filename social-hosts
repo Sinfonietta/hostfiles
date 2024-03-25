@@ -2727,6 +2727,7 @@
 # Reddit
 127.0.0.1 a.thumbs.redditmedia.com
 127.0.0.1 about.reddit.com
+127.0.0.1 accounts.reddit.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 amp-reddit-com.cdn.ampproject.org
 127.0.0.1 b.thumbs.redditmedia.com
@@ -2734,6 +2735,7 @@
 127.0.0.1 d.thumbs.redditmedia.com
 127.0.0.1 e.reddit.com
 127.0.0.1 e.thumbs.redditmedia.com
+127.0.0.1 embed.reddit.com
 127.0.0.1 emoji.redditmedia.com
 127.0.0.1 en.reddit.com
 127.0.0.1 events.reddit.com
@@ -2744,6 +2746,8 @@
 127.0.0.1 g.redditmedia.com
 127.0.0.1 gateway.reddit.com
 127.0.0.1 gp.reddit.com
+127.0.0.1 gql-fed.reddit.com
+127.0.0.1 gql-realtime.reddit.com
 127.0.0.1 gql.reddit.com
 127.0.0.1 hw.reddit.com
 127.0.0.1 i.redd.it
@@ -2785,6 +2789,9 @@
 127.0.0.1 styles.redditmedia.com
 127.0.0.1 us.reddit.com
 127.0.0.1 v.redd.it
+127.0.0.1 w3-reporting-csp.reddit.com
+127.0.0.1 w3-reporting-nel.reddit.com
+127.0.0.1 w3-reporting.reddit.com
 127.0.0.1 wh.reddit.com
 127.0.0.1 www.np.reddit.com
 127.0.0.1 www.reddit-stream.com
