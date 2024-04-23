@@ -3024,8 +3024,10 @@
 127.0.0.1 p1-tt-ipv6.byteimg.com
 127.0.0.1 p1-tt.byteimg.com
 127.0.0.1 p16-ad-sg.ibyteimg.com
+127.0.0.1 p16-pu-sign-ie.tiktokcdn-eu.com
 127.0.0.1 p16-sign-sg.tiktokcdn.com
 127.0.0.1 p16-sign-va.tiktokcdn.com
+127.0.0.1 p16-sign.tiktokcdn-us.com
 127.0.0.1 p16-tiktok-sg.ibyteimg.com
 127.0.0.1 p16-tiktok-sign-va-h2.ibyteimg.com
 127.0.0.1 p16-tiktok-va-h2.ibyteimg.com
@@ -3033,6 +3035,9 @@
 127.0.0.1 p16-tiktokcdn-com.akamaized.net
 127.0.0.1 p16-va-tiktok.ibyteimg.com
 127.0.0.1 p16.hypstarcdn.com
+127.0.0.1 p16.tiktokcdn-us.com
+127.0.0.1 p19-pu-ie.tiktokcdn-eu.com
+127.0.0.7 p19-sign.tiktokcdn-us.com
 127.0.0.1 p26-tt.byteimg.com
 127.0.0.1 p3-tt-ipv6.byteimg.com
 127.0.0.1 p77-va.tiktokcdn.com
@@ -3059,6 +3064,7 @@
 127.0.0.1 rtlog.tiktokv.com
 127.0.0.1 s16.tiktokcdn.com
 127.0.0.1 s20.tiktokcdn.com
+127.0.0.1 search16-normal-useast2a.tiktokv.com
 127.0.0.1 sdfp-va.tiktokv.com
 127.0.0.1 sf-tb-sg.ibytedtos.com
 127.0.0.1 sf1-ttcdn-tos.pstatp.com
@@ -3119,12 +3125,16 @@
 127.0.0.1 ttoverseaus.net
 127.0.0.1 ttwstatic.com
 127.0.0.1 v16-tiktokcdn-com.akamaized.net
+127.0.0.1 v16m.tiktokcdn-eu.com
 127.0.0.1 v19.tiktokcdn.com
+127.0.0.1 v39.tiktokcdn-eu.com
 127.0.0.1 v51.tiktokcdn.com
 127.0.0.1 v53.tiktokcdn.com
+127.0.0.1 v58.tiktokcdn-eu.com
 127.0.0.1 v77.tiktokcdn.com
 127.0.0.1 verification-va.byteoversea.com
 127.0.0.1 verification-va.tiktokv.com
+127.0.0.1 webcast16-normal-c-useast2a.tiktokv.com
 127.0.0.1 www.musical.ly
 127.0.0.1 www.tiktok.com
 127.0.0.1 www.tiktok.in
