@@ -2167,6 +2167,7 @@
 127.0.0.1 z-p42-scontent-yyz1-1.cdninstagram.com
 127.0.0.1 z-p42-scontent.cdninstagram.com
 127.0.0.1 z-p42-static.cdninstagram.com
+127.0.0.1 scontent.fallback.cdninstagram.com
 
 # Whatsapp
 127.0.0.1 account.whatsapp.com
