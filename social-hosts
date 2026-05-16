@@ -2326,13 +2326,19 @@
 
 # Whatsapp
 127.0.0.1 account.whatsapp.com
+127.0.0.1 acs.whatsapp.com
 127.0.0.1 alpha.whatsapp.com
 127.0.0.1 api.whatsapp.com
+127.0.0.1 api.whatsapp.net
 127.0.0.1 autodiscover.whatsapp.com
+127.0.0.1 b.whatsapp.com
 127.0.0.1 beta.whatsapp.com
 127.0.0.1 betablog.whatsapp.com
 127.0.0.1 blog.whatsapp.com
+127.0.0.1 business.whatsapp.com
+127.0.0.1 call.whatsapp.com
 127.0.0.1 cdn.whatsapp.net
+127.0.0.1 chat-fallback.cdn.whatsapp.net
 127.0.0.1 chat.cdn.whatsapp.net
 127.0.0.1 chat.whatsapp.com
 127.0.0.1 crashlogs.whatsapp.net
@@ -2356,8 +2362,12 @@
 127.0.0.1 e8.whatsapp.net
 127.0.0.1 e9.whatsapp.net
 127.0.0.1 faq.whatsapp.com
+127.0.0.1 flows.whatsapp.net
+127.0.0.1 fna.whatsapp.net
+127.0.0.1 g-fallback.whatsapp.net
 127.0.0.1 g.whatsapp.net
 127.0.0.1 gamma.whatsapp.com
+127.0.0.1 graph.whatsapp.com
 127.0.0.1 graph.whatsapp.net
 127.0.0.1 m.whatsapp.com
 127.0.0.1 media-ams2-1.cdn.whatsapp.net
@@ -2369,6 +2379,7 @@
 127.0.0.1 media-ber1-1.cdn.whatsapp.net
 127.0.0.1 media-bog2-1.cdn.whatsapp.net
 127.0.0.1 media-bru2-1.cdn.whatsapp.net
+127.0.0.1 media-bsb1-1.cdn.whatsapp.net
 127.0.0.1 media-cdt1-1.cdn.whatsapp.net
 127.0.0.1 media-dfw5-1.cdn.whatsapp.net
 127.0.0.1 media-dfw5-2.cdn.whatsapp.net
@@ -2379,6 +2390,13 @@
 127.0.0.1 media-frt3-1.cdn.whatsapp.net
 127.0.0.1 media-frt3-2.cdn.whatsapp.net
 127.0.0.1 media-frx5-1.cdn.whatsapp.net
+127.0.0.1 media-gig4-1.cdn.whatsapp.net
+127.0.0.1 media-gig4-2.cdn.whatsapp.net
+127.0.0.1 media-gru1-1.cdn.whatsapp.net
+127.0.0.1 media-gru1-2.cdn.whatsapp.net
+127.0.0.1 media-gru2-1.cdn.whatsapp.net
+127.0.0.1 media-gru2-2.cdn.whatsapp.net
+127.0.0.1 media-hbe1-1.cdn.whatsapp.net
 127.0.0.1 media-iad3-1.cdn.whatsapp.net
 127.0.0.1 media-iad3-2.cdn.whatsapp.net
 127.0.0.1 media-lax3-1.cdn.whatsapp.net
@@ -2394,6 +2412,8 @@
 127.0.0.1 media-mad1-1.cdn.whatsapp.net
 127.0.0.1 media-mia3-1.cdn.whatsapp.net
 127.0.0.1 media-mia3-2.cdn.whatsapp.net
+127.0.0.1 media-mrs2-1.cdn.whatsapp.net
+127.0.0.1 media-mrs2-3.cdn.whatsapp.net
 127.0.0.1 media-mxp1-1.cdn.whatsapp.net
 127.0.0.1 media-ord5-1.cdn.whatsapp.net
 127.0.0.1 media-ord5-2.cdn.whatsapp.net
@@ -2402,6 +2422,7 @@
 127.0.0.1 media-otp1-1.cdn.whatsapp.net
 127.0.0.1 media-qro1-1.cdn.whatsapp.net
 127.0.0.1 media-qro1-2.cdn.whatsapp.net
+127.0.0.1 media-qro3-1.cdn.whatsapp.net
 127.0.0.1 media-sea1-1.cdn.whatsapp.net
 127.0.0.1 media-sin6-1.cdn.whatsapp.net
 127.0.0.1 media-sjc3-1.cdn.whatsapp.net
@@ -2446,6 +2467,7 @@
 127.0.0.1 media.whatsapp.com
 127.0.0.1 mme.whatsapp.net
 127.0.0.1 mme6.whatsapp.net
+127.0.0.1 mmg-fallback.whatsapp.net
 127.0.0.1 mmg-fna.whatsapp.net
 127.0.0.1 mmg.whatsapp.net
 127.0.0.1 mmi244.whatsapp.net
@@ -2460,6 +2482,7 @@
 127.0.0.1 pps.whatsapp.net
 127.0.0.1 ratings.whatsapp.com
 127.0.0.1 scontent.whatsapp.net
+127.0.0.1 snr.whatsapp.net
 127.0.0.1 static.whatsapp.net
 127.0.0.1 translate-dev.whatsapp.com
 127.0.0.1 translate.whatsapp.com
@@ -2475,7 +2498,9 @@
 127.0.0.1 w7.web.whatsapp.com
 127.0.0.1 w8.web.whatsapp.com
 127.0.0.1 w9.web.whatsapp.com
+127.0.0.1 web-fallback.whatsapp.com
 127.0.0.1 web.whatsapp.com
+127.0.0.1 webtp.whatsapp.net
 127.0.0.1 whatsapp-cdn-shv-01-arn2.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-01-atl1.fbcdn.net
 127.0.0.1 whatsapp-cdn-shv-01-bom1.fbcdn.net
