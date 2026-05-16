@@ -3459,7 +3459,7 @@
 127.0.0.1 p19-common.tiktokcdn.com
 127.0.0.1 p19-lp-sg.tiktokcdn.com
 127.0.0.1 p19-pu-ie.tiktokcdn-eu.com
-127.0.0.7 p19-sign.tiktokcdn-us.com
+127.0.0.1 p19-sign.tiktokcdn-us.com
 127.0.0.1 p26-tt.byteimg.com
 127.0.0.1 p3-tt-ipv6.byteimg.com
 127.0.0.1 p77-sg.tiktokcdn.com
