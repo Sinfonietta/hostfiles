@@ -1,0 +1,28 @@
+name: validate-hosts
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - run: |
+          set -euo pipefail
+          state=0
+          while IFS= read -r -d '' file; do
+            [[ "$file" == "README.md" ]] && continue
+            [[ "$file" == "LICENSE" ]] && continue
+            [[ "$file" == ".github/workflows/validate-files.yml" ]] && continue
+            if grep -nEv '^(127\.0\.0\.1|0\.0\.0\.0|#|$)' "$file"; then
+              echo "invalid line(s) in $file"
+              state=1
+            fi
+          done < <(git ls-files -z)
+          exit $state
