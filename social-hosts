@@ -3730,22 +3730,23 @@
 
 # Dating sites
 # from https://github.com/StevenBlack/hosts/issues/2023
-127.0.0.1 tinder.com
-127.0.0.1 bumble.com
 127.0.0.1 badoo.com
-127.0.0.1 okcupid.com
-127.0.0.1 hinge.co
+127.0.0.1 bumble.com
+127.0.0.1 clover.co
 127.0.0.1 coffeemeetsbagel.com
 127.0.0.1 happn.com
-127.0.0.1 weareher.com
-127.0.0.1 clover.co
-127.0.0.1 pof.com
+127.0.0.1 hinge.co
 127.0.0.1 match.com
+127.0.0.1 okcupid.com
+127.0.0.1 pof.com
+127.0.0.1 sniffies.com
+127.0.0.1 tinder.com
+127.0.0.1 weareher.com
 
 # TikTok clone
 127.0.0.1 likee.video
 
-#Snapchat
+# Snapchat
 127.0.0.1 accounts.snapchat.com
 127.0.0.1 api-kit.snapchat.com
 127.0.0.1 app-analytics-v2.snapchat.com
@@ -3829,12 +3830,11 @@
 127.0.0.1 extensions-discovery-images.twitch.tv
 127.0.0.1 panels.twitch.tv
 
+# Bluesky
+127.0.0.1 bsky.app
+127.0.0.1 bsky.social
+127.0.0.1 web-cdn.bsky.app
+
 # Other
 127.0.0.1 pinpages.alwaysdata.net
 127.0.0.1 allotalk.com
-
-# gay
-127.0.0.1 sniffies.com
-
-
-127.0.0.1 bsky.app
