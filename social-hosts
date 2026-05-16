@@ -2588,6 +2588,7 @@
 127.0.0.1 api-45-0-0.twitter.com
 127.0.0.1 api-46-0-0.twitter.com
 127.0.0.1 api-stream.twitter.com
+127.0.0.1 api-stream.twitter.com.cdn.cloudflare.net
 127.0.0.1 api-test.twitter.com
 127.0.0.1 api.twitter.com
 127.0.0.1 api2.twitter.com
@@ -2665,6 +2666,7 @@
 127.0.0.1 platform.twitter.map.fastly.net
 127.0.0.1 pro.twitter.com
 127.0.0.1 probe.twitter.com
+127.0.0.1 probe.twitter.com.cdn.cloudflare.net
 127.0.0.1 publish.twitter.com
 127.0.0.1 pulse.twitter.com
 127.0.0.1 r.twimg.com
@@ -2696,6 +2698,7 @@
 127.0.0.1 twimg0-0.akamaihd.net
 127.0.0.1 twitter.co
 127.0.0.1 twitter.com
+127.0.0.1 twitter.com.cdn.cloudflare.net
 127.0.0.1 twitter.de
 127.0.0.1 twitter.map.fastly.net
 127.0.0.1 upload.twitter.com
