@@ -19,7 +19,7 @@ jobs:
           while IFS= read -r -d '' file; do
             [[ "$file" == "README.md" ]] && continue
             [[ "$file" == "LICENSE" ]] && continue
-            [[ "$file" == ".github/workflows/validate-files.yml" ]] && continue
+            [[ "$file" == ".github/workflows/validate.yml" ]] && continue
             if grep -nEv '^(127\.0\.0\.1|0\.0\.0\.0|#|$)' "$file"; then
               echo "invalid line(s) in $file"
               state=1
